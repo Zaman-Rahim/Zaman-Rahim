@@ -22,7 +22,7 @@ I'm **Abiduzzaman Rahim**, a Computer Science & Engineering student passionate a
 
 Currently, I'm focusing on **Android Development with Kotlin and Jetpack Compose**, while strengthening my programming fundamentals, Git & GitHub workflow, and software engineering knowledge.
 
-- 🎓 CSE Student at **Daffodil International University**
+- 🎓 CSE Student at **Daffodil International University**, currently on a **semester exchange program at INTI International University, Malaysia**
 - 📱 Currently working on **Android applications**
 - 🟣 Learning **Kotlin & Jetpack Compose**
 - 💻 Practicing **C, C++, Java and Python**
@@ -214,6 +214,7 @@ Currently, I'm focusing on **Android Development with Kotlin and Jetpack Compose
 ### Bachelor of Science in Computer Science & Engineering
 
 **Daffodil International University**
+🔄 Currently on a **Semester Exchange Program** at **INTI International University, Malaysia**
 
 Currently developing knowledge in:
 
@@ -234,7 +235,7 @@ Currently developing knowledge in:
 - 📱 Building Android applications using Kotlin & Jetpack Compose
 - 🌐 Experience with digital content and online publishing
 - 📚 Published author of *Beyond the Cloud: The Science and Stories of Aviation*
-- 🌏 Participated in an international university exchange program
+- 🌏 Participated in an international **semester exchange program at INTI International University, Malaysia**
 - 🧑‍💻 Building and maintaining a public GitHub portfolio
 
 ---
