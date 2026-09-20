@@ -75,17 +75,13 @@ Currently, I'm focusing on **Android Development with Kotlin and Jetpack Compose
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Contribution Activity
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=zaman-rahim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaman-rahim&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
+    src="https://ghchart.rshah.org/36BCF7/Zaman-Rahim"
+    alt="Rahim's GitHub Contribution Chart"
+    width="95%"
   />
 </p>
 
@@ -138,24 +134,13 @@ Currently, I'm focusing on **Android Development with Kotlin and Jetpack Compose
 <p align="center">
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zaman-rahim&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=zaman-rahim&theme=tokyonight&hide_border=true"
     alt="Contribution Streak"
   />
 
 </p>
 
 ---
-
-# 📈 Contribution Activity Graph
-
-<p align="center">
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zaman-rahim&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
-  />
-
-</p>
 
 ---
 
