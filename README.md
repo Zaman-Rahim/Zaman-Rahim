@@ -212,17 +212,6 @@ Currently developing knowledge in:
 - Problem Solving
 - Computer Science Fundamentals
 
----
-
-# 🏅 Achievements & Activities
-
-- 🏆 **26th Position** in a university competitive programming contest
-- 💻 Developed academic programming projects using C
-- 📱 Building Android applications using Kotlin & Jetpack Compose
-- 🌐 Experience with digital content and online publishing
-- 📚 Published author of *Beyond the Cloud: The Science and Stories of Aviation*
-- 🌏 Participated in an international **semester exchange program at INTI International University, Malaysia**
-- 🧑‍💻 Building and maintaining a public GitHub portfolio
 
 ---
 
