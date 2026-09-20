@@ -75,14 +75,15 @@ Currently, I'm focusing on **Android Development with Kotlin and Jetpack Compose
 
 ---
 
-# 📊 GitHub Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
+
   <img 
-    src="https://ghchart.rshah.org/36BCF7/Zaman-Rahim"
-    alt="Rahim's GitHub Contribution Chart"
-    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Zaman-Rahim&theme=tokyo-night&hide_border=true&area=true"
+    alt="Rahim's Contribution Graph"
   />
+
 </p>
 
 ---
