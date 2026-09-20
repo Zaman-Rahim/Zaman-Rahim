@@ -259,3 +259,35 @@ Android Development
 Software Engineering
  ↓
 Machine Learning
+
+
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/Zaman-Rahim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/abiduzzaman-rahim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/zaman__rahim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rahim.3c@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="50" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zaman-Rahim">GitHub</a>
+  •
+  <a href="https://linkedin.com/in/abiduzzaman-rahim">LinkedIn</a>
+  •
+  <a href="https://instagram.com/zaman__rahim">Instagram</a>
+  •
+  <a href="mailto:rahim.3c@gmail.com">Email</a>
+</p>
