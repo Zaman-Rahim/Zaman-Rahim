@@ -259,8 +259,9 @@ Android Development
 Software Engineering
  ↓
 Machine Learning
+```
 
-
+---
 
 <h2 align="center">🌐 Connect With Me</h2>
 
