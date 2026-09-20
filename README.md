@@ -29,8 +29,6 @@ Currently, I'm focusing on **Android Development with Kotlin and Jetpack Compose
 - 🧩 Interested in **Problem Solving & Competitive Programming**
 - 🌱 Improving my **Git & GitHub** workflow
 - 🤝 Interested in collaborating on **Android & beginner-friendly Open Source projects**
-- 📚 Author of *Beyond the Cloud: The Science and Stories of Aviation*
-- ✈️ Aviation enthusiast
 - 🌏 Interested in technology, travelling and continuous learning
 
 ---
