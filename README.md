@@ -266,5 +266,3 @@ Machine Learning
   •
   <a href="mailto:rahim.3c@gmail.com">Email</a>
 </p>
-
-
